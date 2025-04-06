@@ -3,7 +3,7 @@
 📍 *Universidad Tecnológica Nacional*  
 
 ## ✨ Estudiante  
-- **Nombre:** Perez Leandro Matias*  
+- **Nombre:** Perez Leandro Matias 
 - **Comisión:** M2025-19  
 
 ## 📂 Descripción del Repositorio  
